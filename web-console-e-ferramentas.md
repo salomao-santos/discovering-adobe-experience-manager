@@ -1,9 +1,28 @@
 Web Console & Ferramentas
 =========
 
-[Discovering Adobe Experience Manager (AEM)](README.md) / Web Console e Ferramentas
+[Discovering Adobe Experience Manager (AEM)](README.md) / [Web Console & Ferramentas](web-console-e-ferramentas.md)
+---
 
-* CRXDE Lite: `/crx/de/index.jsp`. Exemplo: [http://127.0.0.1:4502/crx/de/index.jsp](http://127.0.0.1:4502/crx/de/index.jsp) 
+1. CRXDE Lite:
+
+    * Acesse `/crx/de/index.jsp`.
+
+    * Exemplo:
+
+      * [http://127.0.0.1:4502/crx/de/index.jsp](http://127.0.0.1:4502/crx/de/index.jsp) 
+
+
+
+2. CRX Explorer:
+
+    * Acesse  `/crx/explorer/index.jsp`.
+
+    * Exemplo:
+
+      * [http://127.0.0.1:4502/crx/explorer/index.jsp](http://127.0.0.1:4502/crx/explorer/index.jsp) 
+
+
 
 * CRX Explorer: `/crx/explorer/index.jsp`. Exemplo: [http://127.0.0.1:4502/crx/explorer/index.jsp](http://127.0.0.1:4502/crx/explorer/index.jsp) 
 
