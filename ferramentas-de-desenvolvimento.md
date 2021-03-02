@@ -7,7 +7,7 @@ Ferramentas de Desenvolvimento
 
 * #### Ferramentas para Desenvolvimento do Back-end
   
-    Para o desensenvolvimento do código back-end dentro do AEM, existem duas ferramentas, bem conhecidas pelos desenvolvedores: Intellij IDEA e o Eclipse, mais detalhes abaixo.
+    Para o desensenvolvimento do código back-end do AEM, existem duas ferramentas, bem conhecidas pelos desenvolvedores: Intellij IDEA e o Eclipse, mais detalhes abaixo.
     1. ##### Requisitos
         1. Instalar JDK versão 8 ou 11
         2. Baixe a [JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) ou [JDK 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
