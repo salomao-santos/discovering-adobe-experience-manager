@@ -6,7 +6,7 @@ Web Console & Ferramentas
 
 1. CRXDE Lite:
 
-    * Acesse `/crx/de/index.jsp`.
+    * Acesse `http://<host>:<port>/crx/de/index.jsp`.
 
     * Exemplo:
 
@@ -16,54 +16,149 @@ Web Console & Ferramentas
 
 2. CRX Explorer:
 
-    * Acesse  `/crx/explorer/index.jsp`.
+    * Acesse  `http://<host>:<port>/crx/explorer/index.jsp`.
 
     * Exemplo:
 
       * [http://127.0.0.1:4502/crx/explorer/index.jsp](http://127.0.0.1:4502/crx/explorer/index.jsp) 
 
+3. Package:
+
+    * Acesse  `http://<host>:<port>/crx/packmgr/index.jsp`.
+
+    * Exemplo:
+
+      * [http://127.0.0.1:4502/crx/packmgr/index.jsp](http://127.0.0.1:4502/crx/packmgr/index.jsp)
 
 
-* CRX Explorer: `/crx/explorer/index.jsp`. Exemplo: [http://127.0.0.1:4502/crx/explorer/index.jsp](http://127.0.0.1:4502/crx/explorer/index.jsp) 
+4.  Web Console:
 
-* Package: `/crx/packmgr/index.jsp`. Exemplo: [http://127.0.0.1:4502/crx/packmgr/index.jsp](http://127.0.0.1:4502/crx/packmgr/index.jsp)
+    * Acesse  `http://<host>:<port>/system/console/configMgr`.
 
-* Web Console: `/system/console/configMgr`. Exemplo: [http://127.0.0.1:4502/system/console/configMgr](http://127.0.0.1:4502/system/console/configMgr)
+    * Exemplo:
 
-* OSGi Bundles Console: `/system/console/bundles`. Exemplo: [http://127.0.0.1:4502/system/console/bundles](http://127.0.0.1:4502/system/console/bundles)
-
-* Workflows Console: `/libs/cq/workflow/content/console`. Exemplo: [http://127.0.0.1:4502/libs/cq/workflow/content/console](http://127.0.0.1:4502/libs/cq/workflow/content/console)
-
-* Useradmin Console: `/libs/granite/security/content/useradmin.html`. Exemplo: [http://127.0.0.1:4502/libs/granite/security/content/useradmin.html](http://127.0.0.1:4502/libs/granite/security/content/useradmin.html)
-
-* Groupadmin Console: `/libs/granite/security/content/groupadmin.html`. Exemplo: [http://127.0.0.1:4502/libs/granite/security/content/groupadmin.html](http://127.0.0.1:4502/libs/granite/security/content/groupadmin.html)
-
-* Users and Groups Management Console: `/useradmin`. Exemplo: [http://127.0.0.1:4502/useradmin](http://127.0.0.1:4502/useradmin)
-
-* Siteadmin Console: `/sites.html/content`. Exemplo: [http://127.0.0.1:4502/sites.html/content](http://127.0.0.1:4502/sites.html/content)
-
-* DAM Console: `/assets.html/content/dam`. Exemplo: [http://127.0.0.1:4502/assets.html/content/dam](http://127.0.0.1:4502/assets.html/content/dam)
+      * [http://127.0.0.1:4502/system/console/configMgr](http://127.0.0.1:4502/system/console/configMgr)
 
 
-* Force AEM to rebuild ClientLibs via this url: `/libs/granite/ui/content/dumplibs.rebuild.html`. Exemplo: [http://127.0.0.1:4502/libs/granite/ui/content/dumplibs.rebuild.html](http://127.0.0.1:4502/libs/granite/ui/content/dumplibs.rebuild.html)
+5. OSGi Bundles Console:
 
-* Diagnosis Console: `/libs/granite/operations/content/diagnosis.html`. Exemplo: [http://127.0.0.1:4502/libs/granite/operations/content/diagnosis.html](http://127.0.0.1:4502/libs/granite/operations/content/diagnosis.html)
+    * Acesse  `http://<host>:<port>/system/console/bundles`.
 
-* Latest entries from error.log:: `/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Ferror.log`. Exemplo: [http://127.0.0.1:4502/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Ferror.log](http://127.0.0.1:4502/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Ferror.log)
+    * Exemplo:
 
+      * [http://127.0.0.1:4502/system/console/bundles](http://127.0.0.1:4502/system/console/bundles)
 
-* Latest entries from request.log:: `/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Ferror.log`. Exemplo: [http://127.0.0.1:4502/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Frequest.log](http://127.0.0.1:4502/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Ferror.log)
+6. Workflows Console:
 
+    * Acesse  `http://<host>:<port>/libs/cq/workflow/content/console`.
 
-* [QueryBuilder] (https://experienceleague.adobe.com/docs/experience-manager-64/developing/platform/query-builder/querybuilder-api.html?lang=en#platform)
+    * Exemplo:
 
-
-* QueryBuilder: `/libs/cq/search/content/querydebug.html`. Exemplo: [http://127.0.0.1:4502/libs/cq/search/content/querydebug.html](http://127.0.0.1:4502/libs/cq/search/content/querydebug.html)
-
-
-* Replication Console: `/etc/replication.html`. Exemplo: [http://127.0.0.1:4502/etc/replication.html](http://127.0.0.1:4502/etc/replication.html)
+      * [http://127.0.0.1:4502/libs/cq/workflow/content/console](http://127.0.0.1:4502/libs/cq/workflow/content/console)
 
 
-* Information about your AEM instance including its version: `/system/console/status-productinfo`. Exemplo: [http://127.0.0.1:4502/system/console/status-productinfo](http://127.0.0.1:4502/system/console/status-productinfo)
+7. Useradmin Console:
 
-* URI Decoder: http://coderstoolbox.net/string/#!encoding=url&action=decode&charset=utf_8
+    * Acesse  `http://<host>:<port>/libs/granite/security/content/useradmin.html`.
+
+    * Exemplo:
+
+      * [http://127.0.0.1:4502/libs/granite/security/content/useradmin.html](http://127.0.0.1:4502/libs/granite/security/content/useradmin.html)
+
+
+8. Groupadmin Console:
+
+    * Acesse  `http://<host>:<port>/libs/granite/security/content/groupadmin.html`.
+
+    * Exemplo:
+
+      * [http://127.0.0.1:4502/libs/granite/security/content/groupadmin.html](http://127.0.0.1:4502/libs/granite/security/content/groupadmin.html) 
+
+
+9. Users and Groups Management Console:
+
+    * Acesse  `http://<host>:<port>/useradmin`.
+
+    * Exemplo:
+
+      * [http://127.0.0.1:4502/useradmin](http://127.0.0.1:4502/useradmin)
+
+
+10. Siteadmin Console:
+
+    * Acesse  `http://<host>:<port>/sites.html/content`.
+
+    * Exemplo:
+
+      * [http://127.0.0.1:4502/sites.html/content](http://127.0.0.1:4502/sites.html/content) 
+
+
+11. DAM Console:
+
+    * Acesse  `http://<host>:<port>/assets.html/content/dam`.
+
+    * Exemplo:
+
+      * [http://127.0.0.1:4502/assets.html/content/dam](http://127.0.0.1:4502/assets.html/content/dam) 
+
+
+12. Force AEM to rebuild ClientLibs via this url:
+
+    * Acesse  `http://<host>:<port>/libs/granite/ui/content/dumplibs.rebuild.html`.
+
+    * Exemplo:
+
+      * [http://127.0.0.1:4502/libs/granite/ui/content/dumplibs.rebuild.html](http://127.0.0.1:4502/libs/granite/ui/content/dumplibs.rebuild.html) 
+
+
+13. Diagnosis Console:
+
+    * Acesse  `http://<host>:<port>/libs/granite/operations/content/diagnosis.html`.
+
+    * Exemplo:
+
+      * [http://127.0.0.1:4502/libs/granite/operations/content/diagnosis.html](http://127.0.0.1:4502/libs/granite/operations/content/diagnosis.html)
+
+14. Acesse as últimas 1000 linhas do arquivo error.log:
+
+    * Acesse  `http://<host>:<port>/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Ferror.log`.
+
+    * Exemplo:
+
+      * [http://127.0.0.1:4502/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Ferror.log](http://127.0.0.1:4502/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Ferror.log) 
+
+15.  Acesse as últimas 1000 linhas do arquivo request.log:
+
+    * Acesse  `http://<host>:<port>/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Frequest.log`.
+
+    * Exemplo:
+
+      * [http://127.0.0.1:4502/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Frequest.log](http://127.0.0.1:4502/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Frequest.log) 
+
+16. Replication Console:
+
+    * Acesse  `http://<host>:<port>/etc/replication.html`.
+
+    * Exemplo:
+
+      * [http://127.0.0.1:4502/etc/replication.html](http://127.0.0.1:4502/etc/replication.html) 
+
+17. Informações sobre a instância do AEM, incluindo a versão:
+
+    * Acesse  `http://<host>:<port>/system/console/status-productinfo`.
+
+    * Exemplo:
+
+      * [http://127.0.0.1:4502/system/console/status-productinfo](http://127.0.0.1:4502/system/console/status-productinfo) 
+
+18. QueryBuilder debuger:
+
+    * [Documentação](https://experienceleague.adobe.com/docs/experience-manager-64/developing/platform/query-builder/querybuilder-api.html?lang=en#platform)
+
+    * Acesse  `http://<host>:<port>/libs/cq/search/content/querydebug.htm`.
+
+    * Exemplo:
+
+      * [http://127.0.0.1:4502/libs/cq/search/content/querydebug.htm](http://127.0.0.1:4502/libs/cq/search/content/querydebug.htm) 
+
+19. [URI Decoder] (http://coderstoolbox.net/string/#!encoding=url&action=decode&charset=utf_8)
