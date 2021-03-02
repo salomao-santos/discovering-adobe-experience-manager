@@ -3,5 +3,6 @@ Descobrindo o Adobe Experience Manager (AEM)
 
 Índice
 ---------
-* [Web Console & Ferramentas](web-console-e-ferramentas.md)
-* [Recomendações para Desenvolvedor Front-end](web-console-e-ferramentas.md)
+1. [Web Console & Ferramentas](web-console-e-ferramentas.md)
+2. [Recomendações para Desenvolvedor Front-end](recomendacoes-para-desenvolvedor-front-end.md)
+3. [Recomendações para Desenvolvedor Back-end](recomendacoes-para-desenvolvedor-back-end.md)
