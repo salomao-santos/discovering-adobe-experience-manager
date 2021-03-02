@@ -1,4 +1,4 @@
-### Descobrindo o Adobe Experience Manager (AEM)
+### Discovering Adobe Experience Manager (AEM)
 
 ## Index
 
