@@ -1,5 +1,5 @@
 Descobrindo o Adobe Experience Manager (AEM)
-=========
+
 
 Índice
 ---------
