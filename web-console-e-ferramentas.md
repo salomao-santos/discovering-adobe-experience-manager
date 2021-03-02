@@ -1,4 +1,4 @@
-Web Console e Ferramentas
+Web Console & Ferramentas
 =========
 
 [Discovering Adobe Experience Manager (AEM)](README.md) / Web Console e Ferramentas
