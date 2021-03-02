@@ -2,4 +2,5 @@
 
 ## Index
 
--   [Web Console e Ferramentas](web-console-e-ferramentas.md)
+-   [Web Console & Tools](web-console-e-ferramentas.md)
+-   [Recomendações para Desenvolvedor Front-end](web-console-e-ferramentas.md)
