@@ -5,7 +5,7 @@ Ferramentas de Desenvolvimento
 
 
 
-* ####Ferramentas para Desenvolvimento do Back-end
+* #### Ferramentas para Desenvolvimento do Back-end
   
     Para o desensenvolvimento do código back-end dentro do AEM, existem duas ferramentas, bem conhecidas pelos desenvolvedores: Intellij IDEA e o Eclipse, mais detalhes abaixo.
     1. ##### Requisitos
@@ -23,4 +23,4 @@ Ferramentas de Desenvolvimento
 
 
 
-* ####Ferramentas para Desenvolvimento do Front-end
+* #### Ferramentas para Desenvolvimento do Front-end
