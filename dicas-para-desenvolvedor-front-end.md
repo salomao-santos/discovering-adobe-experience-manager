@@ -7,6 +7,8 @@ Dicas para Desenvolvedor Front-end
     
 2. Vefirique se os bundles do projeto estão funcionado.
 
-3. Instalar IDE
+3. Verifique a pasta clientlibs no browser
 
-4. Configurar minification no AEM local 
+5. Instale IDE
+
+6. Configure minification no AEM local 
