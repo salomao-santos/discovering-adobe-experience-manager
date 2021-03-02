@@ -15,9 +15,9 @@ Web Console e Ferramentas
 
 * Workflows Console: `/libs/cq/workflow/content/console`. Exemplo: [http://127.0.0.1:4502/libs/cq/workflow/content/console](http://127.0.0.1:4502/libs/cq/workflow/content/console)
 
-* Useradmin Console: `/libs/granite/security/content/useradmin`. Exemplo: [http://127.0.0.1:4502/libs/granite/security/content/useradmin](http://127.0.0.1:4502/libs/granite/security/content/useradmin)
+* Useradmin Console: `/libs/granite/security/content/useradmin.html`. Exemplo: [http://127.0.0.1:4502/libs/granite/security/content/useradmin.html](http://127.0.0.1:4502/libs/granite/security/content/useradmin.html)
 
-* Groupadmin Console: `/libs/granite/security/content/groupadmin`. Exemplo: [http://127.0.0.1:4502/libs/granite/security/content/groupadmin.html](http://127.0.0.1:4502/libs/granite/security/content/groupadmin)
+* Groupadmin Console: `/libs/granite/security/content/groupadmin.html`. Exemplo: [http://127.0.0.1:4502/libs/granite/security/content/groupadmin.html](http://127.0.0.1:4502/libs/granite/security/content/groupadmin.html)
 
 * Users and Groups Management Console: `/useradmin`. Exemplo: [http://127.0.0.1:4502/useradmin](http://127.0.0.1:4502/useradmin)
 
@@ -25,10 +25,12 @@ Web Console e Ferramentas
 
 * DAM Console: `/assets.html/content/dam`. Exemplo: [http://127.0.0.1:4502/assets.html/content/dam](http://127.0.0.1:4502/assets.html/content/dam)
 
+
+* Force AEM to rebuild ClientLibs via this url: `/libs/granite/ui/content/dumplibs.rebuild.html`. Exemplo: [http://127.0.0.1:4502/libs/granite/ui/content/dumplibs.rebuild.html](http://127.0.0.1:4502/libs/granite/ui/content/dumplibs.rebuild.html)
+
 * Diagnosis Console: `/libs/granite/operations/content/diagnosis.html`. Exemplo: [http://127.0.0.1:4502/libs/granite/operations/content/diagnosis.html](http://127.0.0.1:4502/libs/granite/operations/content/diagnosis.html)
 
 * Latest entries from error.log:: `/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Ferror.log`. Exemplo: [http://127.0.0.1:4502/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Ferror.log](http://127.0.0.1:4502/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Ferror.log)
-
 
 
 * Latest entries from request.log:: `/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Ferror.log`. Exemplo: [http://127.0.0.1:4502/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Frequest.log](http://127.0.0.1:4502/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Ferror.log)
