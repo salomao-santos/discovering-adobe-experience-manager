@@ -41,6 +41,10 @@ Web Console e Ferramentas
 
 * QueryBuilder: `/libs/cq/search/content/querydebug.html`. Exemplo: [http://127.0.0.1:4502/libs/cq/search/content/querydebug.html](http://127.0.0.1:4502/libs/cq/search/content/querydebug.html)
 
+
+* Replication Console: `/etc/replication.html`. Exemplo: [http://127.0.0.1:4502/etc/replication.html](http://127.0.0.1:4502/etc/replication.html)
+
+
 * Information about your AEM instance including its version: `/system/console/status-productinfo`. Exemplo: [http://127.0.0.1:4502/system/console/status-productinfo](http://127.0.0.1:4502/system/console/status-productinfo)
 
 * URI Decoder: http://coderstoolbox.net/string/#!encoding=url&action=decode&charset=utf_8
