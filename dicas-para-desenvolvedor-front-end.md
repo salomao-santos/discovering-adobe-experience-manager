@@ -1,7 +1,7 @@
 Dicas para Desenvolvedor Front-end
 =========
 
-[Discovering Adobe Experience Manager (AEM)](README.md) / [Ferramentas de Desenvolvimento](dicas-para-desenvolvedor-front-end.md)
+[Discovering Adobe Experience Manager (AEM)](README.md) / [Dicas para Desenvolvedor Front-end](dicas-para-desenvolvedor-front-end.md)
 
 1. Configure o Ambiente do AEM Corretamente.
     
