@@ -1,7 +1,7 @@
-# Discovering Adobe Experience Manager (AEM)
+# Descobrindo o Adobe Experience Manager (AEM)
 
-## Índice
+## Index
 
 1.  [Web Console & Tools](web-console-e-ferramentas.md)
-2.  [Recomendações para Desenvolvedor Front-end](recomendacoes-para-desenvolvedor-front-end.md)
-3.  [Recomendações para Desenvolvedor Back-end](recomendacoes-para-desenvolvedor-back-end.md)
+2.  [Recommendations for Front-end Developer](recomendacoes-para-desenvolvedor-front-end.md)
+3.  [Recommendations for Back-end Developer](recomendacoes-para-desenvolvedor-back-end.md)
