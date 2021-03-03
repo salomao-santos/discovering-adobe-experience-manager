@@ -130,11 +130,11 @@ Web Console & Ferramentas
 
 15.  Acesse as últimas 1000 linhas do arquivo request.log:
 
-    * Acesse  `http://<host>:<port>/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Frequest.log`
+     * Acesse  `http://<host>:<port>/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Frequest.log`
 
-      * Exemplo:
-         
-         http://127.0.0.1:4502/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Frequest.log 
+    * Exemplo:
+
+       http://127.0.0.1:4502/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Frequest.log 
 
 16. Replication Console:
 
