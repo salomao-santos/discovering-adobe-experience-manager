@@ -152,14 +152,23 @@ Web Console & Ferramentas
 
       * [http://127.0.0.1:4502/system/console/status-productinfo](http://127.0.0.1:4502/system/console/status-productinfo) 
 
-18. QueryBuilder debuger:
+18. Bundle location in the Java Content Repository:
 
-    * [Documentação](https://experienceleague.adobe.com/docs/experience-manager-64/developing/platform/query-builder/querybuilder-api.html?lang=en#platform)
-
-    * Acesse  `http://<host>:<port>/libs/cq/search/content/querydebug.htm`.
+    * Acesse  `http://<host>:<port>/crx/de/index.jsp#/apps/vivo-portal/install`.
 
     * Exemplo:
 
-      * [http://127.0.0.1:4502/libs/cq/search/content/querydebug.htm](http://127.0.0.1:4502/libs/cq/search/content/querydebug.htm) 
+      * [http://127.0.0.1:4502/crx/de/index.jsp#/apps/vivo-portal/install](http://127.0.0.1:4502/crx/de/index.jsp#/apps/vivo-portal/install) 
 
-19. [URI Decoder] (http://coderstoolbox.net/string/#!encoding=url&action=decode&charset=utf_8)
+
+19. QueryBuilder debuger:
+
+    * [Documentação](https://experienceleague.adobe.com/docs/experience-manager-64/developing/platform/query-builder/querybuilder-api.html?lang=en#platform)
+
+    * Acesse  `http://<host>:<port>/libs/cq/search/content/querydebug.html`.
+
+    * Exemplo:
+
+      * [http://127.0.0.1:4502/libs/cq/search/content/querydebug.html](http://127.0.0.1:4502/libs/cq/search/content/querydebug.html) 
+
+20. [URI Decoder] (http://coderstoolbox.net/string/#!encoding=url&action=decode&charset=utf_8)
