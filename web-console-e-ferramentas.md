@@ -132,9 +132,9 @@ Web Console & Ferramentas
 
     * Acesse  `http://<host>:<port>/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Frequest.log`.
 
-    * Exemplo:
+      * Exemplo:
 
-      * [http://127.0.0.1:4502/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Frequest.log](http://127.0.0.1:4502/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Frequest.log) 
+         * [http://127.0.0.1:4502/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Frequest.log](http://127.0.0.1:4502/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Frequest.log) 
 
 16. Replication Console:
 
