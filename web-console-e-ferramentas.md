@@ -172,3 +172,10 @@ Web Console & Ferramentas
       * [http://127.0.0.1:4502/libs/cq/search/content/querydebug.html](http://127.0.0.1:4502/libs/cq/search/content/querydebug.html) 
 
 20. [URI Decoder] (http://coderstoolbox.net/string/#!encoding=url&action=decode&charset=utf_8)
+
+
+========
+
+Referências
+===========
+ 1. https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-web-console.html?lang=en#components
