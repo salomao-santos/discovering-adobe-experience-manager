@@ -7,7 +7,7 @@ Web Console & Ferramentas
 
 1. CRXDE Lite:
 
-    * Acesse `http://<host>:<port>/crx/de/index.jsp`.
+    * Acesse `http://<host>:<port>/crx/de/index.jsp`
 
     * Exemplo:
 
@@ -43,7 +43,7 @@ Web Console & Ferramentas
 
 5. OSGi Bundles Console:
 
-    * Acesse  `http://<host>:<port>/system/console/bundles`.
+    * Acesse  `http://<host>:<port>/system/console/bundles`
 
     * Exemplo:
 
@@ -51,7 +51,7 @@ Web Console & Ferramentas
 
 6. Workflows Console:
 
-    * Acesse  `http://<host>:<port>/libs/cq/workflow/content/console`.
+    * Acesse  `http://<host>:<port>/libs/cq/workflow/content/console`
 
     * Exemplo:
 
@@ -60,7 +60,7 @@ Web Console & Ferramentas
 
 7. Useradmin Console:
 
-    * Acesse  `http://<host>:<port>/libs/granite/security/content/useradmin.html`.
+    * Acesse  `http://<host>:<port>/libs/granite/security/content/useradmin.html`
 
     * Exemplo:
 
@@ -69,7 +69,7 @@ Web Console & Ferramentas
 
 8. Groupadmin Console:
 
-    * Acesse  `http://<host>:<port>/libs/granite/security/content/groupadmin.html`.
+    * Acesse  `http://<host>:<port>/libs/granite/security/content/groupadmin.html`
 
     * Exemplo:
 
@@ -78,7 +78,7 @@ Web Console & Ferramentas
 
 9. Users and Groups Management Console:
 
-    * Acesse  `http://<host>:<port>/useradmin`.
+    * Acesse  `http://<host>:<port>/useradmin`
 
     * Exemplo:
 
@@ -87,7 +87,7 @@ Web Console & Ferramentas
 
 10. Siteadmin Console:
 
-    * Acesse  `http://<host>:<port>/sites.html/content`.
+    * Acesse  `http://<host>:<port>/sites.html/content`
 
     * Exemplo:
 
@@ -114,7 +114,7 @@ Web Console & Ferramentas
 
 13. Diagnosis Console:
 
-    * Acesse  `http://<host>:<port>/libs/granite/operations/content/diagnosis.html`.
+    * Acesse  `http://<host>:<port>/libs/granite/operations/content/diagnosis.html`
 
     * Exemplo:
 
@@ -138,7 +138,7 @@ Web Console & Ferramentas
 
 16. Replication Console:
 
-    * Acesse  `http://<host>:<port>/etc/replication.html`.
+    * Acesse  `http://<host>:<port>/etc/replication.html`
 
     * Exemplo:
 
@@ -154,7 +154,7 @@ Web Console & Ferramentas
 
 18. Bundle location in the Java Content Repository:
 
-    * Acesse  `http://<host>:<port>/crx/de/index.jsp#/apps/vivo-portal/install`.
+    * Acesse  `http://<host>:<port>/crx/de/index.jsp#/apps/vivo-portal/install`
 
     * Exemplo:
 
@@ -165,7 +165,7 @@ Web Console & Ferramentas
 
     * [Documentação](https://experienceleague.adobe.com/docs/experience-manager-64/developing/platform/query-builder/querybuilder-api.html?lang=en#platform)
 
-    * Acesse  `http://<host>:<port>/libs/cq/search/content/querydebug.html`.
+    * Acesse  `http://<host>:<port>/libs/cq/search/content/querydebug.html`
 
     * Exemplo:
 
