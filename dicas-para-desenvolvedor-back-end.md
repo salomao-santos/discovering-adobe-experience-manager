@@ -3,12 +3,18 @@ Dicas para Desenvolvedor Back-end
 
 [Discovering Adobe Experience Manager (AEM)](README.md) / [Dicas para Desenvolvedor Back-end](dicas-para-desenvolvedor-back-end.md)
 
-1. Configure o Ambiente do AEM Corretamente.
+1. Configure JDK e o Maven conforme sua versão do AEM.
 
-2. Vefirique se os bundles do projeto estão funcionado.
+2. Após o build sempre verifique se os bundles do projeto estão funcionando.
 
-5. Instale IDE, preferencialmente Intellij
+3. Conforme recomendação da Adobe, sempre faça um backup da instância. 
 
-6. Configure Logs localmente
+4. Configure os níveis de Logs localmente.
 
-7.
+5. Sempre observe o log de error.
+
+6. Instale IDE, preferencialmente Intellij.
+
+7. Verifique se a versão do AEM esta atualizada com os últimos service-package fornecido pela Adobe.
+
+8. 
