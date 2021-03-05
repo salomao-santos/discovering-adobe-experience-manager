@@ -173,8 +173,7 @@ Web Console & Ferramentas
 
 20. [URI Decoder] (http://coderstoolbox.net/string/#!encoding=url&action=decode&charset=utf_8)
 
-
-========
+-------------
 
 Referências
 ===========
