@@ -154,11 +154,13 @@ Web Console & Ferramentas
 
 18. Bundle location in the Java Content Repository:
 
-    * Acesse  `http://<host>:<port>/crx/de/index.jsp#/apps/vivo-portal/install`
+    * Lembre de mudar {project}, pelo nome do seu projeto 
+
+    * Acesse  `http://<host>:<port>/crx/de/index.jsp#/apps/{project}/install`
 
     * Exemplo:
 
-      * [http://127.0.0.1:4502/crx/de/index.jsp#/apps/vivo-portal/install](http://127.0.0.1:4502/crx/de/index.jsp#/apps/vivo-portal/install) 
+      * [http://127.0.0.1:4502/crx/de/index.jsp#/apps/sample-site/install](http://127.0.0.1:4502/crx/de/index.jsp#/apps/sample-site/install) 
 
 
 19. System Config in the Java Content Repository:
