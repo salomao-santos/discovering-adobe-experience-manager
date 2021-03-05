@@ -15,6 +15,6 @@ Dicas para Desenvolvedor Back-end
 
 6. Instale IDE, preferencialmente Intellij.
 
-7. Verifique se a versão do AEM esta atualizada com os últimos service-package fornecido pela Adobe.
+7. Verifique se a versão do AEM esta atualizada com os últimos service-package fornecido pela Adobe. Acesse o [Web Console & Ferramentas](web-console-e-ferramentas.md) e veja no ponto **17** como acessar as informações sobre a versão do AEM.
 
 8. 
