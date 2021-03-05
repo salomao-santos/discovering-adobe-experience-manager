@@ -5,7 +5,7 @@ Dicas para Desenvolvedor Back-end
 
 1. Configure JDK e o Maven conforme sua versão do AEM.
 
-2. Após o build sempre verifique se os bundles do projeto estão funcionando. Acesse [Web Console & Ferramentas](web-console-e-ferramentas.md) e veja no ponto 5 como acessar os bundles. E o ponto 18, você identifica onde fica armazenado os bundles do seu projeto no Java Content Repository.
+2. Após o build sempre verifique se os bundles do projeto estão funcionando. Acesse [Web Console & Ferramentas](web-console-e-ferramentas.md) e veja no ponto 5 como acessar os bundles. E no ponto 18, você identifica onde ficam armazenados os bundles do seu projeto no Java Content Repository.
 
 3. Conforme recomendação da Adobe, sempre faça um backup da instância. 
 
