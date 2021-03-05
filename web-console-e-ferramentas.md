@@ -161,7 +161,19 @@ Web Console & Ferramentas
       * [http://127.0.0.1:4502/crx/de/index.jsp#/apps/vivo-portal/install](http://127.0.0.1:4502/crx/de/index.jsp#/apps/vivo-portal/install) 
 
 
-19. QueryBuilder debuger:
+19. System Config in the Java Content Repository:
+
+   * Acesse  `http://<host>:<port>/crx/de/index.jsp#/apps/system/config`
+
+   * Exemplo:
+
+      * [http://127.0.0.1:4502/crx/de/index.jsp#/apps/system/config](http://127.0.0.1:4502/crx/de/index.jsp#/apps/system/config) 
+
+  
+20. vou adicionar 
+21. vou adicionar
+
+22. QueryBuilder debugger:
 
     * [Documentação](https://experienceleague.adobe.com/docs/experience-manager-64/developing/platform/query-builder/querybuilder-api.html?lang=en#platform)
 
@@ -171,7 +183,7 @@ Web Console & Ferramentas
 
       * [http://127.0.0.1:4502/libs/cq/search/content/querydebug.html](http://127.0.0.1:4502/libs/cq/search/content/querydebug.html) 
 
-20. [URI Decoder] (http://coderstoolbox.net/string/#!encoding=url&action=decode&charset=utf_8)
+23. [URI Decoder] (http://coderstoolbox.net/string/#!encoding=url&action=decode&charset=utf_8)
 
 -------------
 
