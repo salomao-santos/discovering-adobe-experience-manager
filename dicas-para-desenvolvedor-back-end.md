@@ -13,7 +13,7 @@ Dicas para Desenvolvedor Back-end
 
 4. Configure os níveis de Logs localmente.
 
-5. Sempre observe o log de error. Acesse o [Web Console & Ferramentas](web-console-e-ferramentas.md) e veja no ponto **14** como acessar o arquivo error.log.
+5. Sempre observe o log de error, principalmente após um build. Acesse o [Web Console & Ferramentas](web-console-e-ferramentas.md) e veja no ponto **14** como acessar o arquivo error.log.
 
 6. Verifique se a versão do AEM esta atualizada com os últimos service-package fornecido pela Adobe. Acesse o [Web Console & Ferramentas](web-console-e-ferramentas.md) e veja no ponto **17** como acessar as informações sobre a versão do AEM.
 
