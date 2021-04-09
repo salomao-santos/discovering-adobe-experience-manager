@@ -172,7 +172,14 @@ Web Console & Ferramentas
       * [http://127.0.0.1:4502/crx/de/index.jsp#/apps/system/config](http://127.0.0.1:4502/crx/de/index.jsp#/apps/system/config) 
 
   
-20. vou adicionar 
+20. System Overview 
+   
+   * Acesse  `http://<host>:<port>/libs/granite/operations/content/systemoverview.html`
+
+   * Exemplo:
+
+      * [http://127.0.0.1:4502/libs/granite/operations/content/systemoverview.html](http://127.0.0.1:4502/libs/granite/operations/content/systemoverview.html)
+
 21. vou adicionar
 
 22. QueryBuilder debugger:
