@@ -146,11 +146,11 @@ Web Console & Ferramentas
 
 17. Informações sobre a instância do AEM, incluindo a versão:
 
-    * Acesse  `http://<host>:<port>/system/console/status-productinfo`.
+    * Acesse  `http://<host>:<port>/libs/cq/core/content/welcome.html`.
 
     * Exemplo:
 
-      * [http://127.0.0.1:4502/system/console/status-productinfo](http://127.0.0.1:4502/system/console/status-productinfo) 
+      * [http://127.0.0.1:4502/libs/cq/core/content/welcome.html](http://127.0.0.1:4502/libs/cq/core/content/welcome.html) 
 
 18. Bundle location in the Java Content Repository:
 
