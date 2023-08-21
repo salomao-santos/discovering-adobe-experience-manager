@@ -193,7 +193,7 @@ Web Console & Ferramentas
       * [http://127.0.0.1:4502/libs/cq/search/content/querydebug.html](http://127.0.0.1:4502/libs/cq/search/content/querydebug.html) 
 
 23. [URI Decoder] (http://coderstoolbox.net/string/#!encoding=url&action=decode&charset=utf_8)
-24. RUN MODE 
+24. Run Mode 
  
    * Acesse  `http://<host>:<port>/system/console/status-slingsettings`
    * Exemplo:
