@@ -180,7 +180,10 @@ Web Console & Ferramentas
 
       * [http://127.0.0.1:4502/libs/granite/operations/content/systemoverview.html](http://127.0.0.1:4502/libs/granite/operations/content/systemoverview.html)
 
-21. vou adicionar
+21. Dependências do AEM:
+
+     * Acesse  `http://<host>:<port>/system/console/depfinder`
+     * Exemplo: [http://127.0.0.1:4502/system/console/depfinder]
 
 22. QueryBuilder debugger:
 
