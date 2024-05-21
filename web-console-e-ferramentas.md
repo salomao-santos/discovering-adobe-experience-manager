@@ -128,7 +128,7 @@ Web Console & Ferramentas
 
        http://127.0.0.1:4502/system/console/slinglog/tailer.txt?tail=1000&grep=*&name=%2Flogs%2Ferror.log 
 
-15.  Acesse as últimas 1000 linhas do arquivo request.log:
+15. Acesse as últimas 1000 linhas do arquivo request.log:
 
      * Acesse  `http://<host>:<port>/system/console/slinglog/tailer.txt?tail=1000&grep=&name=%2Flogs%2Frequest.log`
 
@@ -196,7 +196,15 @@ Web Console & Ferramentas
       * [http://127.0.0.1:4502/libs/cq/search/content/querydebug.html](http://127.0.0.1:4502/libs/cq/search/content/querydebug.html) 
 
 23. [URI Decoder] (http://coderstoolbox.net/string/#!encoding=url&action=decode&charset=utf_8)
-24. Run Mode 
+
+24. Status Sling Scheduler
+   * Acesse  `http://<host>:<port>/system/console/status-slingscheduler`
+   * Exemplo:
+      * [http://127.0.0.1:4502/system/console/status-slingscheduler](http://127.0.0.1:4502/system/console/status-slingscheduler) 
+
+25.
+
+26. Run Mode 
  
    * Acesse  `http://<host>:<port>/system/console/status-slingsettings`
    * Exemplo:
